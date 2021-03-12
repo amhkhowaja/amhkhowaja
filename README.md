@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amhkhowaja
+- 👋 Hi, I’m Aadarsh Mehdi -> @amhkhowaja
 - 👀 I’m interested in Machine Learning, Artificial Intelligence, Webscraping , Automating the tedious tasks , Problem Solving
 - 🌱 I’m currently learning Artificial Intelligence , Machine Learning , DataStructures, Complex Algorithms 
 - 💞️ I’m looking to collaborate on C, C++ , JAVA , Python, SQL
