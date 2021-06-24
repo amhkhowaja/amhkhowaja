@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aadarsh Mehdi -> @amhkhowaja
 - 👀 I’m interested in 
 
-      Machine Learning,
+      Machine Learning
 
       Artificial Intelligence,
 
@@ -13,16 +13,15 @@
 
 - 🌱 I’m currently learning :
       
-      Artificial Intelligence ,
+      Artificial Intelligence Algorithms,
       
       Machine Learning ,
       
-      DataStructures,
-      
-      Complex Algorithms 
 - 💞️ I’m looking to collaborate on :
-- 
-      C, C++ , JAVA , Python, SQL
+
+      C,           C++ , 
+      JAVA         Python
+      SQL
 
 - 📫 How to reach me ...
       
