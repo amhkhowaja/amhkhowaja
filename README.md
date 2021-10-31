@@ -2,7 +2,9 @@
 - 👀 I’m interested in 
 
       Machine Learning
-
+      
+      Deep Learning ,
+      
       Artificial Intelligence,
 
       Webscraping ,
@@ -13,15 +15,18 @@
 
 - 🌱 I’m currently learning :
       
-      Artificial Intelligence Algorithms,
+      Artificial Intelligence Algorithms
       
       Machine Learning ,
+      
+      Deep Learning
       
 - 💞️ I’m looking to collaborate on :
 
       C,           C++ , 
       JAVA         Python
-      SQL
+      SQL,        Python - Tensorflow
+      Keras       
 
 - 📫 How to reach me ...
       
