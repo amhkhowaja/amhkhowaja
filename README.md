@@ -22,26 +22,23 @@
 
 ### About Me
 
-<img src="https://img.shields.io/badge/Ericsson-0082F0?style=flat-square&logo=ericsson&logoColor=white" height="20" alt="Ericsson" /> Currently at Ericsson Hungary
+<img src="https://img.shields.io/badge/Ericsson-0082F0?style=for-the-badge&logo=ericsson&logoColor=white" />  <img src="https://img.shields.io/badge/Budapest,_Hungary-2ea44f?style=for-the-badge&logo=googlemaps&logoColor=white" />  <img src="https://img.shields.io/badge/4%2B_Years-000000?style=for-the-badge&logo=clockify&logoColor=white" />
 
-```yaml
-name: Aadarsh Mehdi
-role: Experienced Software Developer
-company: Ericsson Hungary (Mar 2023 - Present)
-education: B.Sc. Computer Science, ELTE Budapest
-thesis: "Adaptive, Context-Aware AI Conversational Agent"
-location: Budapest, Hungary
-work_auth: Permanent Residence (no sponsorship)
+<br/>
 
-side_roles:
-  - Python Lab Instructor @ ELTE (Sep 2023 - Jul 2025)
-  - Building Archloop.io, AI SaaS platform
+| | |
+|---|---|
+| **Role** | Experienced Software Developer, Cloud LCM Microservices |
+| **Company** | <img src="https://img.shields.io/badge/Ericsson-0082F0?style=flat-square&logo=ericsson&logoColor=white" /> Ericsson Hungary (Mar 2023 - Present) |
+| **Education** | <img src="https://img.shields.io/badge/ELTE-1a1a6e?style=flat-square&logoColor=white" /> B.Sc. Computer Science, Budapest (2020-2023) |
+| **Thesis** | *"Adaptive, Context-Aware AI Conversational Agent for IoT"* |
+| **Teaching** | <img src="https://img.shields.io/badge/Python_Instructor-3776AB?style=flat-square&logo=python&logoColor=white" /> ELTE (Sep 2023 - Jul 2025), 100+ students |
+| **Building** | <a href="https://archloop.io"><img src="https://img.shields.io/badge/Archloop.io-7B42BC?style=flat-square&logo=rocket&logoColor=white" /></a> AI-powered project management SaaS |
+| **Work Auth** | Permanent Residence, no sponsorship needed |
 
-interests:
-  - Distributed systems at telecom scale
-  - Multi-agent AI orchestration
-  - Developer tooling & automation
-```
+<br/>
+
+> *Software Developer with 4+ years of experience designing, owning, and operating cloud-native microservices in telecom-scale production environments. End-to-end ownership from API design through Kubernetes deployment. Hands-on with GenAI, RAG pipelines, multi-agent systems and LLM evaluation.*
 
 <br clear="right"/>
 
