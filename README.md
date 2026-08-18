@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=e8a33d&height=200&section=header&text=Aadarsh%20Mehdi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Cloud-Native%20%7C%20AI/ML&descAlignY=55&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=e8a33d&height=200&section=header&text=Aadarsh%20Mehdi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud-Native%20Microservices%20%7C%20Full%20Application%20Development&descAlignY=55&descSize=18" />
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=E8A33D&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=4%2B+years+building+production+microservices+at+scale;Designing+GenAI+tools+%26+multi-agent+systems;From+API+design+to+Kubernetes+deployment,+end-to-end" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=E8A33D&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=115&lines=Cloud-native+microservices+and+full-stack+applications;Auth,+security,+scalability,+every+component+that+ships;From+API+design+to+Kubernetes+deployment,+end+to+end" alt="Typing SVG" />
 
 <br/>
 
@@ -22,54 +22,58 @@
 
 ### About Me
 
-<img src="https://img.shields.io/badge/Ericsson-0082F0?style=for-the-badge&logo=ericsson&logoColor=white" />  <img src="https://img.shields.io/badge/Budapest,_Hungary-2ea44f?style=for-the-badge&logo=googlemaps&logoColor=white" />  <img src="https://img.shields.io/badge/4%2B_Years-000000?style=for-the-badge&logo=clockify&logoColor=white" />
+<a href="https://www.ericsson.com"><img src="https://img.shields.io/badge/Ericsson-0082F0?style=for-the-badge&logo=ericsson&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Budapest,_Hungary-2ea44f?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/4%2B_Years_Experience-000000?style=for-the-badge&logo=clockify&logoColor=e8a33d" />
+<a href="https://archloop.io"><img src="https://img.shields.io/badge/Building_Archloop.io-7B42BC?style=for-the-badge&logo=rocket&logoColor=white" /></a>
 
+<br/><br/>
+
+<details open>
+<summary><img src="https://img.shields.io/badge/-Who_am_I-e8a33d?style=flat-square" /> <b>Quick Bio</b></summary>
 <br/>
 
-| | |
-|---|---|
-| **Role** | Experienced Software Developer, Cloud LCM Microservices |
-| **Company** | <img src="https://img.shields.io/badge/Ericsson-0082F0?style=flat-square&logo=ericsson&logoColor=white" /> Ericsson Hungary (Mar 2023 - Present) |
-| **Education** | <img src="https://img.shields.io/badge/ELTE-1a1a6e?style=flat-square&logoColor=white" /> B.Sc. Computer Science, Budapest (2020-2023) |
-| **Thesis** | *"Adaptive, Context-Aware AI Conversational Agent for IoT"* |
-| **Teaching** | <img src="https://img.shields.io/badge/Python_Instructor-3776AB?style=flat-square&logo=python&logoColor=white" /> ELTE (Sep 2023 - Jul 2025), 100+ students |
-| **Building** | <a href="https://archloop.io"><img src="https://img.shields.io/badge/Archloop.io-7B42BC?style=flat-square&logo=rocket&logoColor=white" /></a> AI-powered project management SaaS |
-| **Work Auth** | Permanent Residence, no sponsorship needed |
+```js
+const aadarsh = {
+    does:       "cloud-native microservices and full application development",
+    dayJob:     "lifecycle management services for cloud clusters @ Ericsson",
+    building:   "Archloop.io, an AI powered project management SaaS",
+    ownsWhole:  ["API", "auth", "data", "messaging", "frontend", "deployment"],
+    caresAbout: ["security", "scalability", "safe upgrades and rollbacks"],
+    talkToMe:   ["microservices", "distributed systems", "GenAI in real pipelines"]
+};
+```
 
+</details>
+
+<details>
+<summary><img src="https://img.shields.io/badge/-The_thread-326CE5?style=flat-square" /> <b>What connects my projects</b></summary>
 <br/>
 
-> *Software Developer with 4+ years of experience designing, owning, and operating cloud-native microservices in telecom-scale production environments. End-to-end ownership from API design through Kubernetes deployment. Hands-on with GenAI, RAG pipelines, multi-agent systems and LLM evaluation.*
+I build products end to end, not just the layer I enjoy. Authentication, authorization, payments, messaging, the data layer, the frontend, the container, and the pipeline that ships it. The parts people tend to skip are usually the parts that decide whether something actually survives in production.
+
+**Pay As You Go** is that instinct in one place: three Kotlin Spring Boot services behind Keycloak, OAuth2 social login, RBAC, Stripe payments, RabbitMQ between services, React on top. **Archloop.io** is the bigger version of it, multi-tenant, FastAPI and React, Keycloak, Temporal for durable workflows, Stripe for billing, and agentic orchestration that recovers when a run falls over.
+
+At work I build and own cloud-native microservices in Python, Go, and Java on Kubernetes. The interesting problems there are rarely the happy path, they are the upgrades, the rollbacks, and the migrations that are not allowed to lose data, plus catching the security holes in review before they ship. That is where the habit comes from: assume it breaks, design the recovery first.
+
+GenAI is one strong strand in this, not the whole story. When I do build AI systems, I put them inside a real pipeline with a gate in front. **AI Auto Improver** will not accept a rewritten prompt until it wins a head to head regression check, and the **config system** validates the release config it generates before anyone applies it.
+
+I also taught Python at ELTE for four semesters and supervised final year theses, which was the same instinct as writing shared libraries for my team: make the next person faster.
+
+</details>
+
+<details>
+<summary><img src="https://img.shields.io/badge/-How_I_build-8B5CF6?style=flat-square" /> <b>Principles I keep coming back to</b></summary>
+<br/>
+
+- **Own the whole seam.** API, auth, data, UI, and the deployment that carries it.
+- **Design the rollback before the feature.** If it cannot be undone safely, it is not done.
+- **Assume hostile input.** Validate it, scope the permissions, scan the dependencies.
+- **Generate, then verify.** Applies to my code and to anything an agent produces.
+
+</details>
 
 <br clear="right"/>
-
----
-
-### What I'm Working On
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### <img src="https://img.shields.io/badge/-Cloud_&_Backend-326CE5?style=flat-square&logo=kubernetes&logoColor=white" /> @ <img src="https://img.shields.io/badge/Ericsson-0082F0?style=flat-square&logo=ericsson&logoColor=white" />
-- Designing & operating **10+ microservices** on Kubernetes
-- End-to-end ownership: API > tests > containers > prod
-- Engineered **zero-data-loss migrations** (etcd > OpenSearch)
-- Built shared libraries (auth, object_storage, search_engine)
-- Reduced CI/CD test execution time by **40%**
-
-</td>
-<td width="50%" valign="top">
-
-#### <img src="https://img.shields.io/badge/-AI_&_GenAI-8B5CF6?style=flat-square&logo=openai&logoColor=white" />
-- **Archloop.io** : AI project management SaaS
-- Multi-agent orchestration with LangGraph & CrewAI
-- RAG pipelines & LLM evaluation (DeepEval)
-- Self-optimizing prompt systems (AI Auto Improver)
-- Previously: RASA Digital Assistant exhibited to customers
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -280,32 +284,6 @@ Audience Award
 </tr>
 </table>
 </div>
-
----
-
-### Career Timeline
-
-```mermaid
-gantt
-    title Career Journey
-    dateFormat  YYYY-MM
-    axisFormat  %Y
-
-    section Ericsson
-    Software Developer, Cloud LCM       :active, 2023-03, 2026-08
-
-    section ELTE University
-    Python Lab Instructor               :2023-09, 2025-07
-
-    section Ericsson
-    AI/ML Developer, IoT Accelerator    :2022-07, 2023-03
-
-    section Nokia
-    Software Engineer Trainee, 3G       :2022-01, 2022-07
-
-    section ELTE University
-    B.Sc. Computer Science              :2020-09, 2023-06
-```
 
 ---
 
