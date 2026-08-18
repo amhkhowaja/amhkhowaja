@@ -145,28 +145,143 @@ interests:
 
 </div>
 
-| | Project | Description | Stack |
-|---|---------|-------------|-------|
-| <img src="https://img.shields.io/badge/-SaaS-e8a33d?style=flat-square" /> | [**Archloop.io**](https://archloop.io) | AI-powered SaaS for project management. Multi-tenant, Jira/GitHub/GitLab integration, agentic AI orchestration | FastAPI, React, Keycloak, LangChain, Temporal, Stripe, Supabase |
-| <img src="https://img.shields.io/badge/-GenAI-8B5CF6?style=flat-square" /> | [**AI Auto Improver**](https://github.com/amhkhowaja/ai-auto-improvement) | Self-optimizing prompt evolution with pairwise regression gates & multi-dimensional evaluation | FastAPI, LiteLLM, Instructor, Gradio, Docker |
-| <img src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square" /> | [**AWS ETL Pipeline**](https://github.com/amhkhowaja/aws-terraform-serverless-etl-pipeline) | Serverless ML pipeline for car sales prediction with IaC | AWS Lambda, S3, SQS, Terraform, sklearn |
-| <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square" /> | [**Pay-as-you-go**](https://github.com/amhkhowaja/Pay-as-you-go) | Microservices billing platform with multi-tenant auth | Kotlin, Spring Boot, Stripe, Keycloak, RabbitMQ |
-| <img src="https://img.shields.io/badge/-NLP-5A17EE?style=flat-square" /> | [**IoT Digital Assistant**](https://github.com/amhkhowaja/IoT-Digital-Assistant) | NLP conversational agent for IoT, exhibited at Ericsson Innovation Day | RASA, TensorFlow, Airflow, GCP |
-| <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square" /> | [**WebCrawler**](https://github.com/amhkhowaja/WebCrawler) | Recursive site crawler with JS rendering support | Python, Playwright |
-| <img src="https://img.shields.io/badge/-Agents-10B981?style=flat-square" /> | **Multi-Agent Config System** | LangFlow agents generating & validating config changes across releases | LangFlow, Multi-Agent, K8s |
-| <img src="https://img.shields.io/badge/-Platform-326CE5?style=flat-square" /> | **Autonomous AI SE Platform** | Pipeline-driven platform: prompt > develop > test > containerize > deploy to K8s | AI, Docker, K8s, CI/CD |
+<br/>
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
+
+<a href="https://archloop.io">
+<img src="https://img.shields.io/badge/-SaaS-e8a33d?style=for-the-badge" /><br/>
+<b>Archloop.io</b>
+</a>
+<br/><br/>
+AI-powered SaaS for project management.<br/>
+Multi-tenant, Jira/GitHub/GitLab integration,<br/>
+agentic AI orchestration with failure recovery.
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=fastapi,react,supabase&theme=dark&perline=6" height="30" />
+<br/>
+<sub>FastAPI, React, Keycloak, LangChain, Temporal, Stripe, Supabase</sub>
+
+</td>
+<td align="center" width="50%">
+
+<a href="https://github.com/amhkhowaja/ai-auto-improvement">
+<img src="https://img.shields.io/badge/-GenAI-8B5CF6?style=for-the-badge" /><br/>
+<b>AI Auto Improver</b>
+</a>
+<br/><br/>
+Self-optimizing prompt evolution with<br/>
+pairwise regression gates & multi-dimensional<br/>
+evaluation metrics.
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=fastapi,docker,python&theme=dark&perline=6" height="30" />
+<br/>
+<sub>FastAPI, LiteLLM, Instructor, Gradio, Docker, Mistral AI</sub>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+<a href="https://github.com/amhkhowaja/aws-terraform-serverless-etl-pipeline">
+<img src="https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge" /><br/>
+<b>AWS ETL Pipeline</b>
+</a>
+<br/><br/>
+Event-driven serverless ETL pipeline.<br/>
+S3 landing zone triggers SQS + Lambda<br/>
+preprocessing. ML model for car price prediction.
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=aws,terraform,python&theme=dark&perline=6" height="30" />
+<br/>
+<sub>AWS Lambda, S3, SQS, CloudWatch, Terraform, sklearn</sub>
+
+</td>
+<td align="center" width="50%">
+
+<a href="https://github.com/amhkhowaja/Pay-as-you-go">
+<img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge" /><br/>
+<b>Pay-as-you-go</b>
+</a>
+<br/><br/>
+Microservices billing platform.<br/>
+Multi-tenant auth with Keycloak + OAuth2.0,<br/>
+Stripe payments, three backend services.
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=kotlin,spring,mongodb,react&theme=dark&perline=6" height="30" />
+<br/>
+<sub>Kotlin, Spring Boot, MongoDB, RabbitMQ, Keycloak, Stripe</sub>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+<a href="https://github.com/amhkhowaja/IoT-Digital-Assistant">
+<img src="https://img.shields.io/badge/-NLP-5A17EE?style=for-the-badge" /><br/>
+<b>IoT Digital Assistant</b>
+</a>
+<br/><br/>
+NLP conversational agent for IoT service portal.<br/>
+5 trained models (NLU + dialogue management).<br/>
+Exhibited at Ericsson Innovation Day.
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,python,gcp,mongodb&theme=dark&perline=6" height="30" />
+<br/>
+<sub>RASA, TensorFlow, SpaCy, Airflow, GCP, RabbitMQ</sub>
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://img.shields.io/badge/-Agents-10B981?style=for-the-badge" /><br/>
+<b>Multi-Agent Config System</b>
+<br/><br/>
+LangFlow-based agents generating and validating<br/>
+config changes between releases based on CPI<br/>
+documentation and past templates.
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=python,kubernetes&theme=dark&perline=6" height="30" />
+<br/>
+<sub>LangFlow, Multi-Agent, Kubernetes, Config Generation</sub>
+
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
 ### Achievements
 
 <div align="center">
-
-| <img src="https://img.shields.io/badge/-Innovation-009688?style=flat-square" /> | <img src="https://img.shields.io/badge/-Competition-4285F4?style=flat-square" /> | <img src="https://img.shields.io/badge/-Hackathon-FF4500?style=flat-square" /> |
-|:---:|:---:|:---:|
-| **Ericsson Innovation Day** | **Google HashCode** | **CodeX Hackathon** |
-| Exhibited AI Digital Assistant to external customers | 1st at ELTE, 20th in Hungary | Audience Award |
-
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/-Innovation-009688?style=for-the-badge" />
+<br/><br/>
+<b>Ericsson Innovation Day</b>
+<br/><br/>
+Exhibited AI Digital Assistant<br/>for IoT Accelerator to<br/>external customers
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/-Competition-4285F4?style=for-the-badge" />
+<br/><br/>
+<b>Google HashCode</b>
+<br/><br/>
+1st at ELTE<br/>20th in Hungary
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/-Hackathon-FF4500?style=for-the-badge" />
+<br/><br/>
+<b>CodeX Hackathon</b>
+<br/><br/>
+Audience Award
+</td>
+</tr>
+</table>
 </div>
 
 ---
