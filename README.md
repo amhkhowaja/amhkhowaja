@@ -22,7 +22,7 @@
 
 ### About Me
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Ericsson_logo_2.png" height="20" alt="Ericsson" /> Currently at Ericsson Hungary
+<img src="https://img.shields.io/badge/Ericsson-0082F0?style=flat-square&logo=ericsson&logoColor=white" height="20" alt="Ericsson" /> Currently at Ericsson Hungary
 
 ```yaml
 name: Aadarsh Mehdi
@@ -53,7 +53,7 @@ interests:
 <tr>
 <td width="50%" valign="top">
 
-#### <img src="https://img.shields.io/badge/-Cloud_&_Backend-326CE5?style=flat-square&logo=kubernetes&logoColor=white" /> @ <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Ericsson_logo_2.png" height="16" alt="Ericsson" /> Ericsson
+#### <img src="https://img.shields.io/badge/-Cloud_&_Backend-326CE5?style=flat-square&logo=kubernetes&logoColor=white" /> @ <img src="https://img.shields.io/badge/Ericsson-0082F0?style=flat-square&logo=ericsson&logoColor=white" />
 - Designing & operating **10+ microservices** on Kubernetes
 - End-to-end ownership: API > tests > containers > prod
 - Engineered **zero-data-loss migrations** (etcd > OpenSearch)
@@ -141,7 +141,7 @@ interests:
 
 <div align="center">
 
-[![Archloop.io Card](https://github-readme-stats.vercel.app/api/pin/?username=amhkhowaja&repo=amhkhowaja.github.io&theme=dark&hide_border=true&bg_color=0d1117&title_color=e8a33d&icon_color=e8a33d)](https://archloop.io)
+[![Archloop.io](https://img.shields.io/badge/Archloop.io-AI_Powered_Project_Management_SaaS-7B42BC?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0d1117)](https://archloop.io)
 
 </div>
 
