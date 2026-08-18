@@ -11,7 +11,7 @@
 <!-- Social Badges -->
 [![Portfolio](https://img.shields.io/badge/amhkhowaja.github.io-e8a33d?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117)](https://amhkhowaja.github.io)
 [![Archloop.io](https://img.shields.io/badge/Archloop.io-7B42BC?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0d1117)](https://archloop.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aadarsh-mehdi-73754b13b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white)](https://linkedin.com/in/aadarsh-mehdi-73754b13b)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aadarshofficial110@gmail.com)
 
 </div>
@@ -30,7 +30,7 @@
 <br/><br/>
 
 <details open>
-<summary><img src="https://img.shields.io/badge/-Who_am_I-e8a33d?style=flat-square" /> <b>Quick Bio</b></summary>
+<summary><img src="https://img.shields.io/badge/START_HERE-e8a33d?style=for-the-badge" /> &nbsp;<b>Who I am in 30 seconds</b></summary>
 <br/>
 
 ```js
@@ -47,7 +47,7 @@ const aadarsh = {
 </details>
 
 <details>
-<summary><img src="https://img.shields.io/badge/-The_thread-326CE5?style=flat-square" /> <b>What connects my projects</b></summary>
+<summary><img src="https://img.shields.io/badge/THE_PATTERN-326CE5?style=for-the-badge" /> &nbsp;<b>Why my projects all look alike</b> &nbsp;<sub>(click to open)</sub></summary>
 <br/>
 
 I build products end to end, not just the layer I enjoy. Authentication, authorization, payments, messaging, the data layer, the frontend, the container, and the pipeline that ships it. The parts people tend to skip are usually the parts that decide whether something actually survives in production.
@@ -63,7 +63,7 @@ I also taught Python at ELTE for four semesters and supervised final year theses
 </details>
 
 <details>
-<summary><img src="https://img.shields.io/badge/-How_I_build-8B5CF6?style=flat-square" /> <b>Principles I keep coming back to</b></summary>
+<summary><img src="https://img.shields.io/badge/GROUND_RULES-8B5CF6?style=for-the-badge" /> &nbsp;<b>How I decide what to build</b> &nbsp;<sub>(click to open)</sub></summary>
 <br/>
 
 - **Own the whole seam.** API, auth, data, UI, and the deployment that carries it.
@@ -81,43 +81,136 @@ I also taught Python at ELTE for four semesters and supervised final year theses
 
 <div align="center">
 
-<!-- Languages -->
-<img src="https://skillicons.dev/icons?i=python,go,java,kotlin,ts,js,cpp,bash&theme=dark" alt="Languages" />
-
-<br/><br/>
-
-<!-- Cloud & Infra -->
-<img src="https://skillicons.dev/icons?i=kubernetes,docker,aws,gcp,terraform,jenkins&theme=dark" alt="Cloud" />
-
-<br/><br/>
-
-<!-- Frameworks -->
-<img src="https://skillicons.dev/icons?i=fastapi,spring,flask,react,kafka&theme=dark" alt="Frameworks" />
-
-<br/><br/>
-
-<!-- Data & Tools -->
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,git,github,gitlab&theme=dark" alt="Data & Tools" />
+<img src="https://skillicons.dev/icons?i=python,go,java,kotlin,cpp,ts,js,bash,powershell&theme=dark&perline=9" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=kubernetes,docker,aws,gcp,terraform,jenkins,fastapi,flask,spring&theme=dark&perline=9" alt="Cloud and Backend" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,sqlite,supabase,kafka,rabbitmq,tensorflow,sklearn&theme=dark&perline=9" alt="Data and AI" />
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,selenium,git,github,gitlab,grafana&theme=dark&perline=9" alt="Frontend and Tools" />
 
 </div>
 
-<details>
-<summary><b>Full Skills Breakdown (click to expand)</b></summary>
 <br/>
 
-| Category | Technologies |
-|----------|-------------|
-| **Languages** | Python, Go, Java, Kotlin, C++, JavaScript, TypeScript, Bash, PowerShell |
-| **Backend & Distributed** | Microservices, REST APIs, Event-Driven Architecture, Spring Boot, Kafka, RabbitMQ, OpenAPI |
-| **Cloud & DevOps** | AWS (EC2, EKS, IAM, S3, Lambda, CloudWatch, SQS), GCP (GKE), Terraform, Kubernetes, Docker, Helm, Jenkins, Airflow, CI/CD |
-| **AI / ML / GenAI** | LangChain, LangFlow, LangGraph, CrewAI, Instructor, LiteLLM, DeepEval, TensorFlow, Keras, RASA, RAG, Multi-Agent Orchestration |
-| **Databases** | PostgreSQL, MongoDB, Redis, InfluxDB, ETCD, OpenSearch |
-| **Observability & Security** | Prometheus, Grafana, VictoriaMetrics, OAuth 2.0, RBAC, Keycloak, SCA, SonarQube |
-| **Frontend** | React, Streamlit, Gradio, HTML, CSS, Bootstrap |
-| **Testing** | Robot Framework, Selenium, pytest, JUnit, testify (Go) |
-| **Collaboration** | Git, GitHub, GitLab, Gerrit, Jira, Confluence |
+<table>
+<tr><td><b>Languages</b></td><td>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square" />
+</td></tr>
 
-</details>
+<tr><td><b>Backend &amp; APIs</b></td><td>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_APIs-5fd1a3?style=flat-square" />
+<img src="https://img.shields.io/badge/Microservices-5fd1a3?style=flat-square" />
+</td></tr>
+
+<tr><td><b>Auth, Payments &amp; Security</b></td><td>
+<img src="https://img.shields.io/badge/Keycloak-6CB4EE?style=flat-square&logo=keycloak&logoColor=white" />
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+<img src="https://img.shields.io/badge/OAuth_2.0-EB5424?style=flat-square&logo=auth0&logoColor=white" />
+<img src="https://img.shields.io/badge/RBAC-5fd1a3?style=flat-square" />
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqubeserver&logoColor=white" />
+<img src="https://img.shields.io/badge/SCA-E6522C?style=flat-square" />
+<img src="https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square&logo=owasp&logoColor=white" />
+</td></tr>
+
+<tr><td><b>Cloud &amp; IaC</b></td><td>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square" />
+<img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square" />
+<img src="https://img.shields.io/badge/S3-569A31?style=flat-square" />
+<img src="https://img.shields.io/badge/SQS-FF4F8B?style=flat-square" />
+<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" />
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+</td></tr>
+
+<tr><td><b>Messaging &amp; Workflows</b></td><td>
+<img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
+<img src="https://img.shields.io/badge/Temporal-000000?style=flat-square&logo=temporal&logoColor=white" />
+<img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Nango-1A1A1A?style=flat-square" />
+<img src="https://img.shields.io/badge/Event_Driven-5fd1a3?style=flat-square" />
+</td></tr>
+
+<tr><td><b>Databases &amp; Storage</b></td><td>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white" />
+<img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white" />
+<img src="https://img.shields.io/badge/etcd-419EDA?style=flat-square&logo=etcd&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+</td></tr>
+
+<tr><td><b>AI &amp; GenAI</b></td><td>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white" />
+<img src="https://img.shields.io/badge/LangFlow-3B82F6?style=flat-square&logo=langflow&logoColor=white" />
+<img src="https://img.shields.io/badge/CrewAI-FF4500?style=flat-square&logo=crewai&logoColor=white" />
+<img src="https://img.shields.io/badge/Haystack-03AF9D?style=flat-square&logo=haystack&logoColor=white" />
+<img src="https://img.shields.io/badge/LiteLLM-F59E0B?style=flat-square" />
+<img src="https://img.shields.io/badge/Instructor-A855F7?style=flat-square" />
+<img src="https://img.shields.io/badge/DeepEval-EF4444?style=flat-square" />
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" />
+<img src="https://img.shields.io/badge/Mistral_AI-FA520F?style=flat-square&logo=mistralai&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-8B5CF6?style=flat-square" />
+</td></tr>
+
+<tr><td><b>ML &amp; Data Science</b></td><td>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/RASA-5A17EE?style=flat-square&logo=rasa&logoColor=white" />
+<img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+</td></tr>
+
+<tr><td><b>Frontend</b></td><td>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Gradio-F97316?style=flat-square&logo=gradio&logoColor=white" />
+</td></tr>
+
+<tr><td><b>Testing</b></td><td>
+<img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
+<img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white" />
+<img src="https://img.shields.io/badge/testify-00ADD8?style=flat-square&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/Robot_Framework-000000?style=flat-square&logo=robotframework&logoColor=white" />
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
+</td></tr>
+
+<tr><td><b>Observability</b></td><td>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+<img src="https://img.shields.io/badge/VictoriaMetrics-621773?style=flat-square&logo=victoriametrics&logoColor=white" />
+</td></tr>
+
+<tr><td><b>Collaboration</b></td><td>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />
+<img src="https://img.shields.io/badge/Gerrit-EEEEEE?style=flat-square&logo=gerrit&logoColor=black" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" />
+</td></tr>
+</table>
 
 ---
 
